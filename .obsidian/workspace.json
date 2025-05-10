@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "9df887b4a30faea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8917c8f6b9a55d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db0def127d17d248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin/Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee50af3237b0d618",
+    "type": "split",
+    "children": [
+      {
+        "id": "38f193f97644a640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2d3fb1e3561b79c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64a2b7b37295c5eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fde6bad295a5d390",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9524e64e7943a57b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e74863aed8463fd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb91777117edd6b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "c7a9a9a7a97b22d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "897a042061058a49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f89ae81fc024ed1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "321cf97041355537",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "0e9ac4c07aa2e8cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e2d3fb1e3561b79c",
+  "lastOpenFiles": [
+    "Kotlin/Installs/Basics",
+    "Kotlin/Installs/Java Install/Pasted image 20250509200609.png",
+    "Kotlin/Homepage.md",
+    "Kotlin/Installs/Kotlin Install/Pasted image 20250509193609.png",
+    "Kotlin/Installs/Kotlin Install/How to Install Kotlin.md",
+    "Kotlin/Installs/Pasted image 20250509194207.png",
+    "Kotlin/Installs/Java Install/How to Install Java.md",
+    "Kotlin/Installs/Kotlin Install/Pasted image 20250509195553.png",
+    "Kotlin/Installs/Kotlin Install/Pasted image 20250509193813.png",
+    "Kotlin/Installs/Java Install/Pasted image 20250509200740.png",
+    "Kotlin/Installs/Java Install/Pasted image 20250509201319.png",
+    "Kotlin/Installs/Kotlin Install/Pasted image 20250509194059.png",
+    "Kotlin/Installs/Kotlin Install/Pasted image 20250509193630.png",
+    "Kotlin/Installs/Pasted image 20250509194302.png",
+    "Kotlin/Installs",
+    "Kotlin/Installs/Java Install",
+    "Kotlin/Installs/Kotlin Install",
+    "French/French map.md",
+    "[[.md",
+    "Kotlin",
+    "Science/Vitruvius Man.md",
+    "French/Untitled.md",
+    "French",
+    "Home.md",
+    "Science/Science.md",
+    "Science/Heat and Cold.md",
+    "Math/Math.md",
+    "Math",
+    "2025-03-22.md",
+    "Science",
+    "Heat And Cold.md",
+    "Welcome.md"
+  ]
+}
